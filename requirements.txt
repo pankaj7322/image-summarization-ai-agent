@@ -4,3 +4,5 @@ transformers
 opencv-python
 pillow
 numpy
+torch
+tensorflow
